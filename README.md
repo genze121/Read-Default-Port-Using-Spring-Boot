@@ -2,7 +2,7 @@
 
 ## Following features
 
-- Get Server Port Number
+- Get the Server Port Number
 
 ## Technology stack
 - Java 8+
@@ -10,3 +10,7 @@
 - STS IDE
 - Postman API Testing Tool
 - Embedded Tomcat server running port - 8080
+
+  ----
+
+  Credits: [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")
